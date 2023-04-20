@@ -1,5 +1,5 @@
 {
-  "name": "aurora-contracts-sdk",
+  "name": "@auroraisnear/aurora-sdk",
   "version": "0.0.1",
   "description": "The purpose of this repository is to provide libraries that make it easy for developers to connect the NEAR and Aurora ecosystems. This includes a Solidity library for EVM contract developers to call out to the broader NEAR ecosystem from Aurora.",
   "main": "index.js",

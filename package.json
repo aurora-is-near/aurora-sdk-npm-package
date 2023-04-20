@@ -1,0 +1,22 @@
+{
+  "name": "aurora-contracts-sdk",
+  "version": "0.0.1",
+  "description": "The purpose of this repository is to provide libraries that make it easy for developers to connect the NEAR and Aurora ecosystems. This includes a Solidity library for EVM contract developers to call out to the broader NEAR ecosystem from Aurora.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpolania/aurora-contracts-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpolania/aurora-contracts-sdk/issues"
+  },
+  "homepage": "https://github.com/bpolania/aurora-contracts-sdk#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2"
+  }
+}
